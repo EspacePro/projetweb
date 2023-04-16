@@ -1,0 +1,16 @@
+1681662391
+O:39:"Grav\Common\Flex\Types\Pages\PageObject":4:{s:4:"type";s:5:"pages";s:3:"key";s:28:"blog/laborum-ultricies-netus";s:8:"elements";a:4:{s:4:"root";b:0;s:6:"header";a:5:{s:5:"title";s:23:"Laborum ultricies netus";s:4:"date";s:16:"17:34 07/04/2014";s:6:"author";s:13:"Rescue Themes";s:12:"body_classes";s:62:"single single-post postid-15 single-format-standard group-blog";s:8:"taxonomy";a:3:{s:8:"category";s:8:"Featured";s:3:"tag";a:2:{i:0;s:5:"fifth";i:1;s:5:"sixth";}s:8:"featured";b:1;}}s:11:"frontmatter";s:228:"title: Laborum ultricies netus
+date: 17:34 07/04/2014
+author: Rescue Themes
+body_classes: single single-post postid-15 single-format-standard group-blog
+taxonomy:
+    category: Featured
+    tag: [fifth, sixth]
+    featured: true";s:8:"markdown";s:805:"Egestas faucibus consectetuer odit incidunt sociosqu diam inventore malesuada ridiculus taciti cursus? Architecto, ipsum nibh id auctor placerat. Tempore doloremque tenetur quibusdam esse.
+
+Vel hymenaeos cillum sapien pariatur viverra laudantium magni proident sodales porttitor nisi consectetur expedita molestias dicta expedita maecenas rutrum lacinia cupiditate! Proident architecto vivamus posuere.
+
+In accusamus urna hymenaeos occaecati esse occaecati do. Justo architecto voluptates omnis? Quibusdam venenatis eros! Soluta libero, nec. Dolor eius nonummy, nesciunt cillum inceptos faucibus.
+
+Arcu? Voluptatum dis, proin luctus lorem voluptatibus dapibus magni mollit, ridiculus! Rerum. Condimentum ante, non blanditiis penatibus per commodi. Blandit urna. Sodales, reprehenderit eaque. Accusantium.
+";}s:7:"storage";a:6:{s:3:"key";s:28:"blog/laborum-ultricies-netus";s:11:"storage_key";s:31:"02.blog/laborum-ultricies-netus";s:8:"template";s:4:"item";s:17:"storage_timestamp";i:1665247254;s:8:"markdown";a:1:{s:0:"";a:1:{s:4:"item";i:1665247254;}}s:8:"checksum";s:32:"d6cdadfe346b396cc7e3c08c3f87ed42";}}

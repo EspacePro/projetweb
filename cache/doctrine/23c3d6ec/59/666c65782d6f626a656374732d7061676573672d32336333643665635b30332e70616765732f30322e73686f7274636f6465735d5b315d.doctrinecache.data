@@ -1,0 +1,47 @@
+1681662391
+O:39:"Grav\Common\Flex\Types\Pages\PageObject":4:{s:4:"type";s:5:"pages";s:3:"key";s:16:"pages/shortcodes";s:8:"elements";a:4:{s:4:"root";b:0;s:6:"header";a:4:{s:5:"title";s:10:"Shortcodes";s:12:"body_classes";s:37:"page page-template-default group-blog";s:7:"toggles";a:2:{i:0;a:3:{s:5:"title";s:10:"Some title";s:11:"description";s:390:"Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Etiam porta sem malesuada magna mollis euismod. Etiam porta sem malesuada magna mollis euismod. Nullam id dolor id nibh ultricies vehicula ut id elit. Nullam quis risus eget urna mollis ornare vel eu leo. Donec sed odio dui.";s:8:"position";s:3:"top";}i:1;a:3:{s:5:"title";s:13:"Another title";s:11:"description";s:305:"Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nullam id dolor id nibh ultricies vehicula ut id elit. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.";s:8:"position";s:3:"top";}}s:11:"progressbar";a:2:{i:0;a:4:{s:5:"title";s:7:"Example";s:7:"percent";i:75;s:10:"background";s:7:"#f1c40f";s:8:"position";s:3:"top";}i:1;a:4:{s:5:"title";s:7:"Example";s:7:"percent";i:25;s:10:"background";s:7:"#f10e0e";s:8:"position";s:3:"top";}}}s:11:"frontmatter";s:1063:"title: Shortcodes
+body_classes: page page-template-default group-blog
+toggles:
+  - title: Some title
+    description: Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Etiam porta sem malesuada magna mollis euismod. Etiam porta sem malesuada magna mollis euismod. Nullam id dolor id nibh ultricies vehicula ut id elit. Nullam quis risus eget urna mollis ornare vel eu leo. Donec sed odio dui.
+    position: top
+  - title: Another title
+    description: Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nullam id dolor id nibh ultricies vehicula ut id elit. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.
+    position: top
+progressbar:
+  - title: Example
+    percent: 75
+    background: "#f1c40f"
+    position: top
+  - title: Example
+    percent: 25
+    background: "#f10e0e"
+    position: top";s:8:"markdown";s:1139:"____
+#### Toggles
+
+Toggles ? Maybe for an awesome FAQ page? Add following code to page header:
+<pre>
+toggles:
+  - title: Some title
+    description: Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Etiam porta sem malesuada magna mollis euismod. Etiam porta sem malesuada magna mollis euismod. Nullam id dolor id nibh ultricies vehicula ut id elit. Nullam quis risus eget urna mollis ornare vel eu leo. Donec sed odio dui.
+    position: top
+  - title: Another title
+    description: Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nullam id dolor id nibh ultricies vehicula ut id elit. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.
+    position: top
+</pre>
+
+___
+#### Progress Bar
+
+<pre>
+progressbar:
+  - title: Example
+    percent: 75
+    background: "#f1c40f"
+    position: top
+  - title: Example
+    percent: 25
+    background: "#f10e0e"
+    position: top
+</pre>
+";}s:7:"storage";a:6:{s:3:"key";s:16:"pages/shortcodes";s:11:"storage_key";s:22:"03.pages/02.shortcodes";s:8:"template";s:7:"default";s:17:"storage_timestamp";i:1665247254;s:8:"markdown";a:1:{s:0:"";a:1:{s:7:"default";i:1665247254;}}s:8:"checksum";s:32:"43b3a3d07ba90208a557bdd12bd90de2";}}

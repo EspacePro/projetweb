@@ -1,0 +1,247 @@
+<?php
+return [
+    '@class' => 'Grav\\Common\\File\\CompiledJsonFile',
+    'filename' => '/var/www/html/sites_tests/gateway/user/data/flex/indexes/pages.json',
+    'modified' => 1681661791,
+    'size' => 4830,
+    'data' => [
+        'version' => '1.5',
+        'timestamp' => 1681661791,
+        'count' => 18,
+        'index' => [
+            '' => [
+                'key' => '',
+                'storage_key' => '',
+                'template' => NULL,
+                'storage_timestamp' => 1665247254,
+                'children' => [
+                    '01.home' => 1665247254,
+                    '02.blog' => 1665247254,
+                    '03.pages' => 1665247254,
+                    '04.style-guide' => 1665247254
+                ],
+                'checksum' => '6af26aca0815989cc1ac1cce8df9c713'
+            ],
+            '01.home' => [
+                'key' => 'home',
+                'storage_key' => '01.home',
+                'template' => 'modular',
+                'storage_timestamp' => 1665247254,
+                'markdown' => [
+                    '' => [
+                        'modular' => 1665247254
+                    ]
+                ],
+                'children' => [
+                    '_whatwedo' => 1665247254
+                ],
+                'checksum' => '5b3e05a7e36fc6ed5876b99ec6c0292d'
+            ],
+            '01.home/_whatwedo' => [
+                'key' => 'home/_whatwedo',
+                'storage_key' => '01.home/_whatwedo',
+                'template' => 'default',
+                'storage_timestamp' => 1665247254,
+                'markdown' => [
+                    '' => [
+                        'default' => 1665247254
+                    ]
+                ],
+                'checksum' => 'fa75aca7dc3c1e525e615f4b532a1b86'
+            ],
+            '02.blog' => [
+                'key' => 'blog',
+                'storage_key' => '02.blog',
+                'template' => 'blog',
+                'storage_timestamp' => 1665247254,
+                'markdown' => [
+                    '' => [
+                        'blog' => 1665247254
+                    ]
+                ],
+                'children' => [
+                    'architecto-wisi-mauris' => 1665247254,
+                    'fugit-potenti-sollicitudin' => 1665247254,
+                    'laborum-ultricies-netus' => 1665247254,
+                    'quidem-do-delectus-mus-leo' => 1665247254,
+                    'quis-ligula-primis-massa-autem-aenean' => 1665247254,
+                    'ratione-deserunt-viverra-natus' => 1665247254,
+                    'sticky-post-example' => 1665247254,
+                    'tristique-pellentesque-ipsam-rhoncus-fusce' => 1665247254
+                ],
+                'checksum' => '05d461f7d696e3741d6c66ef694ce103'
+            ],
+            '02.blog/architecto-wisi-mauris' => [
+                'key' => 'blog/architecto-wisi-mauris',
+                'storage_key' => '02.blog/architecto-wisi-mauris',
+                'template' => 'item',
+                'storage_timestamp' => 1665247254,
+                'markdown' => [
+                    '' => [
+                        'item' => 1665247254
+                    ]
+                ],
+                'checksum' => 'c90c4b171e31a3dea9024d298bcf4de9'
+            ],
+            '02.blog/fugit-potenti-sollicitudin' => [
+                'key' => 'blog/fugit-potenti-sollicitudin',
+                'storage_key' => '02.blog/fugit-potenti-sollicitudin',
+                'template' => 'item',
+                'storage_timestamp' => 1665247254,
+                'markdown' => [
+                    '' => [
+                        'item' => 1665247254
+                    ]
+                ],
+                'checksum' => '9449e1ec942300a4c29e7d9f5b3cb3ad'
+            ],
+            '02.blog/laborum-ultricies-netus' => [
+                'key' => 'blog/laborum-ultricies-netus',
+                'storage_key' => '02.blog/laborum-ultricies-netus',
+                'template' => 'item',
+                'storage_timestamp' => 1665247254,
+                'markdown' => [
+                    '' => [
+                        'item' => 1665247254
+                    ]
+                ],
+                'checksum' => 'd6cdadfe346b396cc7e3c08c3f87ed42'
+            ],
+            '02.blog/quidem-do-delectus-mus-leo' => [
+                'key' => 'blog/quidem-do-delectus-mus-leo',
+                'storage_key' => '02.blog/quidem-do-delectus-mus-leo',
+                'template' => 'item',
+                'storage_timestamp' => 1665247254,
+                'markdown' => [
+                    '' => [
+                        'item' => 1665247254
+                    ]
+                ],
+                'checksum' => '4d0fe7849370767726965dfe0d70f09d'
+            ],
+            '02.blog/quis-ligula-primis-massa-autem-aenean' => [
+                'key' => 'blog/quis-ligula-primis-massa-autem-aenean',
+                'storage_key' => '02.blog/quis-ligula-primis-massa-autem-aenean',
+                'template' => 'item',
+                'storage_timestamp' => 1665247254,
+                'markdown' => [
+                    '' => [
+                        'item' => 1665247254
+                    ]
+                ],
+                'checksum' => 'ad3bef9d81f1c1762971eb66632eae02'
+            ],
+            '02.blog/ratione-deserunt-viverra-natus' => [
+                'key' => 'blog/ratione-deserunt-viverra-natus',
+                'storage_key' => '02.blog/ratione-deserunt-viverra-natus',
+                'template' => 'item',
+                'storage_timestamp' => 1665247254,
+                'markdown' => [
+                    '' => [
+                        'item' => 1665247254
+                    ]
+                ],
+                'checksum' => 'b34bcc3d7581ea314cdf67d866499454'
+            ],
+            '02.blog/sticky-post-example' => [
+                'key' => 'blog/sticky-post-example',
+                'storage_key' => '02.blog/sticky-post-example',
+                'template' => 'item',
+                'storage_timestamp' => 1665247254,
+                'markdown' => [
+                    '' => [
+                        'item' => 1665247254
+                    ]
+                ],
+                'checksum' => '242907e4fe9c597aaaa3bd525b67d484'
+            ],
+            '02.blog/tristique-pellentesque-ipsam-rhoncus-fusce' => [
+                'key' => 'blog/tristique-pellentesque-ipsam-rhoncus-fusce',
+                'storage_key' => '02.blog/tristique-pellentesque-ipsam-rhoncus-fusce',
+                'template' => 'item',
+                'storage_timestamp' => 1665247254,
+                'markdown' => [
+                    '' => [
+                        'item' => 1665247254
+                    ]
+                ],
+                'checksum' => '514b35565fab74149f9b5263451ea3ba'
+            ],
+            '03.pages' => [
+                'key' => 'pages',
+                'storage_key' => '03.pages',
+                'template' => NULL,
+                'storage_timestamp' => 1665247254,
+                'children' => [
+                    '01.contact' => 1665247254,
+                    '02.shortcodes' => 1665247254,
+                    '03.fullwidth' => 1665247254
+                ],
+                'checksum' => '859c7577ea7ff6795767da59cac5440c'
+            ],
+            '03.pages/01.contact' => [
+                'key' => 'pages/contact',
+                'storage_key' => '03.pages/01.contact',
+                'template' => 'form',
+                'storage_timestamp' => 1665247254,
+                'markdown' => [
+                    '' => [
+                        'form' => 1665247254
+                    ]
+                ],
+                'children' => [
+                    'thankyou' => 1665247254
+                ],
+                'checksum' => 'b73eb647f7637df808e673ac36e821ab'
+            ],
+            '03.pages/01.contact/thankyou' => [
+                'key' => 'pages/contact/thankyou',
+                'storage_key' => '03.pages/01.contact/thankyou',
+                'template' => 'formdata',
+                'storage_timestamp' => 1665247254,
+                'markdown' => [
+                    '' => [
+                        'formdata' => 1665247254
+                    ]
+                ],
+                'checksum' => 'f68ab5cd5e3e1e1255c2df411f50cc0e'
+            ],
+            '03.pages/02.shortcodes' => [
+                'key' => 'pages/shortcodes',
+                'storage_key' => '03.pages/02.shortcodes',
+                'template' => 'default',
+                'storage_timestamp' => 1665247254,
+                'markdown' => [
+                    '' => [
+                        'default' => 1665247254
+                    ]
+                ],
+                'checksum' => '43b3a3d07ba90208a557bdd12bd90de2'
+            ],
+            '03.pages/03.fullwidth' => [
+                'key' => 'pages/fullwidth',
+                'storage_key' => '03.pages/03.fullwidth',
+                'template' => 'default',
+                'storage_timestamp' => 1665247254,
+                'markdown' => [
+                    '' => [
+                        'default' => 1665247254
+                    ]
+                ],
+                'checksum' => 'a08363263f1d23df1579302e4e3e88f7'
+            ],
+            '04.style-guide' => [
+                'key' => 'style-guide',
+                'storage_key' => '04.style-guide',
+                'template' => 'default',
+                'storage_timestamp' => 1665247254,
+                'markdown' => [
+                    '' => [
+                        'default' => 1665247254
+                    ]
+                ],
+                'checksum' => '317a41023e5e0ea025579e3bf80a6d8e'
+            ]
+        ]
+    ]
+];

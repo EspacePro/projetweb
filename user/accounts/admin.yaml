@@ -1,0 +1,11 @@
+state: enabled
+email: espacepro.chamillard@gmail.com
+fullname: 'Gilles Chamillard'
+title: Administrateur
+access:
+  admin:
+    login: true
+    super: true
+  site:
+    login: true
+hashed_password: $2y$10$ey2mhoUwdY6ha.fw/F.sS.k4691V6Ph3a5zVIWBR5UnHOqVhnbuYe
