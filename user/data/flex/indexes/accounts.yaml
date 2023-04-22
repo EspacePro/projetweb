@@ -1,9 +1,0 @@
-version: '1.2'
-timestamp: 1681661791
-count: 1
-index:
-  admin:
-    storage_key: admin
-    storage_timestamp: 1681661791
-    key: admin
-    email: espacepro.chamillard@gmail.com

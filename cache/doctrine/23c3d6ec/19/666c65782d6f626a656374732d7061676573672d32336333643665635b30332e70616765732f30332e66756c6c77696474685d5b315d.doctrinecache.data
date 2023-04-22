@@ -1,9 +1,0 @@
-1681662391
-O:39:"Grav\Common\Flex\Types\Pages\PageObject":4:{s:4:"type";s:5:"pages";s:3:"key";s:15:"pages/fullwidth";s:8:"elements";a:4:{s:4:"root";b:0;s:6:"header";a:3:{s:5:"title";s:9:"Fullwidth";s:12:"body_classes";s:37:"page page-template-default group-blog";s:9:"fullwidth";b:1;}s:11:"frontmatter";s:84:"title: Fullwidth
-body_classes: page page-template-default group-blog
-fullwidth: true";s:8:"markdown";s:919:"Nullam id dolor id nibh ultricies vehicula ut id elit. Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Aenean lacinia bibendum nulla sed consectetur. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec ullamcorper nulla non metus auctor fringilla.
-
-Cras mattis consectetur purus sit amet fermentum. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Nullam quis risus eget urna mollis ornare vel eu leo. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ullamcorper nulla non metus auctor fringilla. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Nulla vitae elit libero, a pharetra augue. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.
-";}s:7:"storage";a:6:{s:3:"key";s:15:"pages/fullwidth";s:11:"storage_key";s:21:"03.pages/03.fullwidth";s:8:"template";s:7:"default";s:17:"storage_timestamp";i:1665247254;s:8:"markdown";a:1:{s:0:"";a:1:{s:7:"default";i:1665247254;}}s:8:"checksum";s:32:"a08363263f1d23df1579302e4e3e88f7";}}
